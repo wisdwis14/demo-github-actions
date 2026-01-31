@@ -1,6 +1,6 @@
 def addition(a, b):
     """Additionne deux nombres"""
-    return a + b
+    return a - b
 
 def multiplication(a, b):
     """Multiplie deux nombres"""
